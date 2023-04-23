@@ -1,0 +1,30 @@
+accelerate==0.18.0
+allennlp==2.10.1
+allennlp-models==2.10.1
+-e git+https://github.com/marcotcr/checklist.git@3edd07c9a84e6c6657333450d4d0e70ecb0c00d9#egg=checklist
+datasets==2.7.1
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.1/en_core_web_sm-3.4.1-py3-none-any.whl
+evaluate==0.4.0
+fairscale==0.4.6
+graphviz @ file:///opt/conda/conda-bld/python-graphviz_1660063183935/work
+huggingface-hub==0.10.1
+jsonlines==3.1.0
+matplotlib==3.6.2
+nltk==3.8
+numpy==1.20.3
+pandas==1.5.2
+protobuf==3.19.6
+py-rouge==1.1
+rouge-score==0.1.2
+scikit-learn==1.2.0
+scipy==1.9.3
+sentence-transformers==2.2.2
+sentencepiece==0.1.97
+spacy==3.4.0
+textdistance==4.5.0
+tokenizers==0.12.1
+torch==1.10.0+cu111
+torchaudio==0.10.0+rocm4.1
+torchvision==0.11.0+cu111
+tqdm==4.64.1
+transformers==4.20.1

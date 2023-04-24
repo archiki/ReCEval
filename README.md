@@ -1,6 +1,6 @@
 # ReCEval: Evaluating Reasoning Chains via Correctness and Informativeness
 * Authors: [Archiki Prasad](https://archiki.github.io), [Swarnadeep Saha](https://swarnahub.github.io/), [Xiang Zhou](https://owenzx.github.io/), and [Mohit Bansal](https://www.cs.unc.edu/~mbansal/) (UNC Chapel Hill)
-* [Paper]()
+* [Paper](https://arxiv.org/abs/2304.10703)
 * **Note:** This is preliminary version of our code. The complete code to run all experiments in the paper will be added shortly.
 
 <img src="./assets/ReCEvalOverview.png" alt="teaser image" width="7500"/>

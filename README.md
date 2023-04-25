@@ -6,7 +6,7 @@
 <img src="./assets/ReCEvalOverview.png" alt="teaser image" width="7500"/>
 
 ## Dependencies
-This code is written using PyTorch and [HuggingFace's Transformer repo](https://github.com/huggingface/pytorch-transformers). Running ReCEval requires access to GPUs. The evaluation is quite light-weight, so one GPU should suffice. Please install [Entailment Bank](https://allenai.org/data/entailmentbank) and [GSM-8K](https://github.com/openai/grade-school-math) datasets separately. For using human judgements datasets for GSM-8K and running baselines please follow the setup procedure in [ROSCOE](https://github.com/facebookresearch/ParlAI/tree/main/projects/roscoe/) (preferably in a separate environment).
+This code is written using PyTorch and [Hugging Face's Transformer repo](https://github.com/huggingface/pytorch-transformers). Running ReCEval requires access to GPUs. The evaluation is quite light-weight, so one GPU should suffice. Please install [Entailment Bank](https://allenai.org/data/entailmentbank) and [GSM-8K](https://github.com/openai/grade-school-math) datasets separately. For using human judgements datasets for GSM-8K and running baselines please follow the setup procedure in [ROSCOE](https://github.com/facebookresearch/ParlAI/tree/main/projects/roscoe/) (preferably in a separate environment).
 
 ## Installation
 The simplest way to run our code is to start with a fresh environment.

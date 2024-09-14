@@ -26,6 +26,7 @@ pip install -r requirements.txt
   *   `inp_model_dir`: Model *g'* for calculating PVI-based intra-step correctness
   *   `info_model_dir`: Model for calculating PVI-based information-gain
   *   `source_path`: Path containing reasoning chains to be scored or meta-evaluated
+* **PVI Models:** Here is a link for trained [PVI models for entailment](https://drive.google.com/drive/folders/1qhWKqEAFAoIar3ydSUtMoh2YyYctutG6?usp=drive_link). For more training details and how we prepare the data refer to Appendix A of our paper and/or consider using off-the-shelf LLMs to compute ReCEval metrics.
 
 ## Reference
 Please cite our paper if you use our repository in your works:
